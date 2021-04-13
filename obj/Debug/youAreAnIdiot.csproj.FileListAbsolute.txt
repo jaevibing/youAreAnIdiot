@@ -1,0 +1,10 @@
+C:\Users\stant\source\repos\youAreAnIdiot\bin\Debug\youAreAnIdiot.exe.config
+C:\Users\stant\source\repos\youAreAnIdiot\bin\Debug\youAreAnIdiot.exe
+C:\Users\stant\source\repos\youAreAnIdiot\bin\Debug\youAreAnIdiot.pdb
+C:\Users\stant\source\repos\youAreAnIdiot\obj\Debug\youAreAnIdiot.csprojAssemblyReference.cache
+C:\Users\stant\source\repos\youAreAnIdiot\obj\Debug\youAreAnIdiot.Form1.resources
+C:\Users\stant\source\repos\youAreAnIdiot\obj\Debug\youAreAnIdiot.Properties.Resources.resources
+C:\Users\stant\source\repos\youAreAnIdiot\obj\Debug\youAreAnIdiot.csproj.GenerateResource.cache
+C:\Users\stant\source\repos\youAreAnIdiot\obj\Debug\youAreAnIdiot.csproj.CoreCompileInputs.cache
+C:\Users\stant\source\repos\youAreAnIdiot\obj\Debug\youAreAnIdiot.exe
+C:\Users\stant\source\repos\youAreAnIdiot\obj\Debug\youAreAnIdiot.pdb
